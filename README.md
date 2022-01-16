@@ -18,6 +18,13 @@ We will use "Quantum random walks - an introductory overview" by J. Kempe as our
 
 
 ### References
+Quantum random walks - an introductory overview
 https://arxiv.org/pdf/quant-ph/0303081.pdf
 
+Quantum Walk search Algorithm
 https://qiskit.org/textbook/ch-algorithms/quantum-walk-search-algorithm.html#qiskiti
+
+Quantum Walks and Search Algorithms, 2nd Ed, Renato Portugal
+
+Random Walk (with implementation in Python)
+https://www.geeksforgeeks.org/random-walk-implementation-python/
